@@ -1,0 +1,17 @@
+.Collection{margin-top:0.42rem;}
+.Collection .none{background:#00b38a;color:#fff;font:0.24rem/0.48rem "";position: absolute;top:50%;left:50%;margin:-0.24rem 0 0 -0.7rem;width:1.4rem;text-align: center;border-radius:5px;}
+.Collection .everyCar{margin-bottom:0.1rem;border-bottom:1px solid #e3e3e3;padding:0.09rem 0.16rem 0.17rem;background: #fff;}
+.Collection .zhiwei{display: flex;justify-content: space-between;align-items: center;}
+.Collection .zhiwei h4{font:800 0.2rem/0.32rem "";color: #000;}
+.Collection .zhiwei p{min-width:0.62rem;height:0.2rem;display: flex;}
+.Collection .zhiwei p span{font:0.14rem/0.2rem "";color:#999;}
+.Collection .zhiwei p i{display:block;width:0.2rem;height:0.2rem;background: url(../../assets/img/qianjin-ioc.png) no-repeat center;background-size:100%;}
+.Collection .gongshi p{font:0.16rem/0.3rem "";color:#343434;}
+.Collection .address{color:#969696;display: flex;justify-content: space-between;align-items: center;}
+.Collection .address span{font:0.16rem/0.28rem "";}
+.Collection .address .count {width:0.2rem;height:0.2rem;background: url('../img/shouc-hs.png') no-repeat center;background-size:100%;}
+
+/* .Collection .address .count {display: flex;text-align: center;align-items: center;}
+.Collection .address .count .reduce{width:0.28rem;height:0.28rem;font:0.24rem/0.28rem "";}
+.Collection .address .count .num{text-align:center;height:0.2rem;font:0.18rem/0.2rem "";color:#343434;}
+.Collection .address .count .add{width:0.28rem;height:0.28rem;font:0.24rem/0.28rem "";} */

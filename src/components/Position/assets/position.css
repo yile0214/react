@@ -1,0 +1,9 @@
+.position{width:6.08rem;height:1.58rem;border-bottom:1px solid #dfdfdf;color:#838383;margin-left:0.16rem;background: #fff;}
+.position a{display:block}
+.position h4{font:0.18rem/0.34rem "";color:#505050;padding-top:0.17rem;}
+.position .company{font:0.16rem/0.31rem "";color:#838383;}
+.position .salary{font:0.16rem/0.31rem "";color:#838383;}
+.position .salary em{font:0.16rem/0.31rem "";color:#ed932f}
+.position .exp{display:flex;justify-content: space-between;align-items: center;}
+.position .exp span{font:0.16rem/0.27rem "";color:#838383;}
+.position .exp i{width:0.2rem;height:0.2rem;background: url(../../../assets/img/qianjin-ioc.png) no-repeat center;background-size:100%;}

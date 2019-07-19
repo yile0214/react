@@ -1,0 +1,27 @@
+
+.detail{background: #f2f2f2;padding-top:0.58rem;margin-bottom:0.9rem;}
+.detail .detail-mc{height:1.64rem;background:#fff;padding-left:0.16rem;}
+.detail .detail-mc h3{font:900 0.26rem/0.44rem "";color: #333333;}
+.detail .detail-mc p{font: 0.14rem/0.3rem "";color: #333333;}
+.detail .detail-mc p span{font: 0.14rem/0.3rem "";color: #838383;margin-left:0.06rem;}
+.detail .detail-mc p em{font: 0.14rem/0.3rem "";color: #66b835;margin-left:0.06rem;}
+.detail-compony{margin-top:0.16rem;background: #fff;padding:0 0.16rem;}
+.detail-compony .title{display: flex;justify-content: space-between;align-items: center;border-bottom:1px solid #e3e3e3;}
+.detail-compony .title h3{display: flex;align-items: center;}
+.detail-compony .title h3 span{width:0.05rem;height:0.24rem;background:#5fb52c;}
+.detail-compony .title p{font:900 0.22rem/0.54rem "";color: #333333;margin-left:0.1rem;}
+.detail-compony .title i{width: 0.2rem;height: 0.2rem;background: url(../../assets/img/qianjinlv-ioc.png) no-repeat center;background-size: 100%;}
+.detail-compony .jieshao{margin-top:0.15rem;}
+.detail-compony .jieshao p{font: 0.16rem/0.42rem "";color: #666666;}
+.detail-compony .jieshao p span{font: 0.16rem/0.42rem "";margin-left:0.06rem;}
+
+.detail-des{margin-top:0.16rem;background: #fff;padding:0 0.16rem;}
+.detail-des .title{display: flex;justify-content: space-between;align-items: center;border-bottom:1px solid #e3e3e3;}
+.detail-des .title h3{display: flex;align-items: center;}
+.detail-des .title h3 span{width:0.05rem;height:0.24rem;background:#5fb52c;}
+.detail-des .title p{font:900 0.22rem/0.54rem "";color: #333333;margin-left:0.1rem;}
+.detail-des .title i{width: 0.2rem;height: 0.2rem;background: url(../../assets/img/qianjinlv-ioc.png) no-repeat center;background-size: 100%;}
+.detail-des .des p{margin-top:0.12rem;font: 0.16rem/0.32rem "";color: #666666;}
+
+
+.detailfoot{width:100%;background:#06c69a;height:0.42rem;position: fixed;bottom: 0;font:0.22rem/0.42rem "";color:#fff;text-align:center;}

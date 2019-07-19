@@ -1,0 +1,4 @@
+.header{position:fixed;top:0;height:0.88rem;width: 100%;display:flex;justify-content: space-around;align-items:center;background:#fff;z-index:2;}
+.header span{width:1.38rem;height:0.48rem;background: url('../img/logo.png') no-repeat center;background-size:100%;}
+.header input{height:0.48rem;background: #f1f1f1;border-radius:5px;width:3.92rem;text-indent: 10px;}
+.header i{width:0.43rem;height:0.43rem;background: url(../img/cd.png) no-repeat center;background-size:100%;}

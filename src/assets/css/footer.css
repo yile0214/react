@@ -1,0 +1,27 @@
+/* .footer{border-top:1px solid #cfcfcf;position: fixed;bottom:0;height:0.89rem;width:100%;background:#fff;}
+.footer ul{display:flex;width:100%;height:100%;justify-content:space-around;}
+.footer ul li{height:100%;text-align: center;padding-top:0.12rem;}
+.footer ul li span{display:block;width:0.35rem;height:0.38rem;margin:0 auto;}
+.footer ul li:nth-child(1) span{background: url(../img/d2.png) no-repeat center;background-size:100%}
+.footer ul li:nth-child(1) .home{background: url(../img/d2-2.png) no-repeat center;background-size:100%}
+.footer ul li:nth-child(2) span{background: url(../img/d1.png) no-repeat center;background-size:100%}
+.footer ul li:nth-child(2) .list{background: url(../img/d1-1.png) no-repeat center;background-size:100%}
+.footer ul li:nth-child(3) span{background: url(../img/d3.png) no-repeat center;background-size:100%}
+.footer ul li:nth-child(3) .car{background: url(../img/d3-3.png) no-repeat center;background-size:100%}
+.footer ul li:nth-child(4) span{background: url(../img/d4.png) no-repeat center;background-size:100%}.footer ul li:nth-child(4) .user{background: url(../img/d4-4.png) no-repeat center;background-size:100%}.footer ul li p{font:700 0.22rem/0.36rem "";color:#797979;}
+ */
+
+ .footer{border-top:1px solid #cfcfcf;position: fixed;bottom:0;height:0.89rem;width:100%;background:#fff;}
+.footer .footer-skip{display:flex;width:100%;height:100%;justify-content:space-around;}
+.footer .footer-skip a{height:100%;text-align: center;padding-top:0.12rem;display:block;}
+.footer .footer-skip a span{display:block;width:0.35rem;height:0.38rem;margin:0 auto;}
+.footer .footer-skip a:nth-child(1) span{background: url(../img/d2.png) no-repeat center;background-size:100%}
+.footer .footer-skip a.home span{background: url(../img/d2-2.png) no-repeat center;background-size:100%}
+.footer .footer-skip a:nth-child(1) .home{background: url(../img/d2-2.png) no-repeat center;background-size:100%}
+.footer .footer-skip a:nth-child(2) span{background: url(../img/d1.png) no-repeat center;background-size:100%}
+.footer .footer-skip a.follow span{background: url(../img/d1-1.png) no-repeat center;background-size:100%}
+.footer .footer-skip a:nth-child(3) span{background: url(../img/d3.png) no-repeat center;background-size:100%}
+.footer .footer-skip a.car span{background: url(../img/d3-3.png) no-repeat center;background-size:100%}
+.footer .footer-skip a:nth-child(4) span{background: url(../img/d4.png) no-repeat center;background-size:100%}
+.footer .footer-skip a.my span{background: url(../img/d4-4.png) no-repeat center;background-size:100%}
+.footer .footer-skip a p{font:700 0.22rem/0.36rem "";color:#797979;}

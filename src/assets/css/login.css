@@ -1,0 +1,17 @@
+/* body{background: #f2f2f2;} */
+.login{background: #f2f2f2;padding-top:0.54rem;height:100%;}
+.login-put{margin:0 0.13rem 0;background:#fff;border-radius:5px;}
+.login-put li{display: flex;justify-content: space-between;align-items: center;border:1px solid #f5f5f5;}
+.login-put li p{display: flex;justify-content: space-between;align-items: center;}
+.login-put li p i{width:0.3rem;height:0.3rem;}
+.login-put li p input{width:3.8rem;margin-left:0.14rem;height:0.34rem;border:0;font:0.12rem/0.34rem "";color:#757575;}
+.login-put li em{width:0.3rem;height:0.3rem;background:url(../img/font-quxiao.png) no-repeat center;background-size:100%;}
+.login-put li:nth-child(1) p i{background:url(../img/font-yonghu.png) no-repeat center;background-size:100%;}
+.login-put li:nth-child(1) em{background:url(../img/font-quxiao.png) no-repeat center;background-size:100%;}
+.login-put li:nth-child(2) p i{background:url(../img/iconfont-mima.png) no-repeat center;background-size:100%;}
+.login-put li:nth-child(2) em{background:url(../img/iconfont-chakan.png) no-repeat center;background-size:100%;}
+.login-put li:nth-child(3) p i{background:url(../img/iconfont-dengluyanzhengma.png) no-repeat center;background-size:100%;}
+.login-mess{font:0.14rem/0.36rem "";color:red;height:0.36rem;margin-left:0.14rem;}
+.login-button{margin:0 0.13rem 0;height:0.36rem;background:#00b38a;text-align: center;font:600 0.12rem/0.36rem "";color:#fff;}
+.login-already{font:0.1rem/0.42rem "";color:#8e8e8e;text-align: center;}
+.login-button_reg{margin:0 0.13rem 0;height:0.36rem;background: #ffffff;text-align: center;font:600 0.12rem/0.36rem "";color:#5fb52c;}

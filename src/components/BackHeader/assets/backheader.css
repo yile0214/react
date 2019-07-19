@@ -1,0 +1,6 @@
+.backhead{height:0.42rem;position: fixed;top:0;background:#00b38a;display:flex;width:100%;align-items: center;}
+.backhead .back{height:0.2rem;margin-left:0.15rem;}
+.backhead .back i{display: block;width:0.2rem;height:0.2rem;float: left;background: url(../../../assets/img/fanhui-iocs.png) no-repeat center;background-size: 100%;}
+.backhead .back em{font:0.14rem/0.2rem "";color: #fff;float:right;}
+.backhead p{font:0.2rem/0.42rem "";color:#fff;margin:0 auto;}
+.backhead span{width:0.3rem;height:0.3rem;background:url(../../../assets/img/xx_ingj_1.png) no-repeat center;background-size:100%;margin-right:0.11rem;}
